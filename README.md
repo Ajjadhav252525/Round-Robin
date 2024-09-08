@@ -12,3 +12,11 @@ Efficiency: The algorithm is simple to implement and ensures that all processes 
 
 
 ![image](https://github.com/user-attachments/assets/67581a8c-91a8-4d33-aa4c-57ef4ca30cdb)
+
+
+
+time complexity -> O(nlogn + n*m);
+where n = no of processes
+m = no of rounds
+
+space complexity -> o(n)to store the burst time remaining of eacch processes.
